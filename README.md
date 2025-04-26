@@ -26,6 +26,8 @@ Run the following command to check your Python version:
 
 ```bash
 python --version
+
+```
 ### 4️⃣ Step 4: Choose the Correct Python Script
 - Use the appropriate script based on how you've handled the document:
   - If you cleaned the document and saved it as `text.txt`, use: **`AI2030Code.py`**
